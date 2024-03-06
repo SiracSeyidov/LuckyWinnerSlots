@@ -11,6 +11,43 @@
 		120309A52B6584F8001AA4A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309A42B6584F8001AA4A4 /* ContentView.swift */; };
 		120309A72B6584FC001AA4A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120309A62B6584FC001AA4A4 /* Assets.xcassets */; };
 		120309AA2B6584FC001AA4A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120309A92B6584FC001AA4A4 /* Preview Assets.xcassets */; };
+		120309B12B65B445001AA4A4 /* Game1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309B02B65B445001AA4A4 /* Game1View.swift */; };
+		120309B32B65B4C8001AA4A4 /* BoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309B22B65B4C8001AA4A4 /* BoxView.swift */; };
+		120309B52B65BAA9001AA4A4 /* Game2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309B42B65BAA9001AA4A4 /* Game2View.swift */; };
+		120309B72B65DD9F001AA4A4 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309B62B65DD9F001AA4A4 /* InfoView.swift */; };
+		120309B92B65E2BD001AA4A4 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309B82B65E2BD001AA4A4 /* Constants.swift */; };
+		120309BB2B65E71E001AA4A4 /* BgAnimation1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309BA2B65E71E001AA4A4 /* BgAnimation1.swift */; };
+		120309BD2B65E782001AA4A4 /* GiftBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120309BC2B65E782001AA4A4 /* GiftBoxView.swift */; };
+		126E0BEF2B7CF3CB000000D6 /* CombinedText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0BEE2B7CF3CB000000D6 /* CombinedText.swift */; };
+		126E0BF62B7D0630000000D6 /* coin_rain.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 126E0BF42B7D0630000000D6 /* coin_rain.mp4 */; };
+		126E0BF72B7D0630000000D6 /* coin_rain_2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 126E0BF52B7D0630000000D6 /* coin_rain_2.mp4 */; };
+		126E0BF92B82A22A000000D6 /* CenteredShheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0BF82B82A22A000000D6 /* CenteredShheetView.swift */; };
+		126E0BFB2B82A32F000000D6 /* GoodLuckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0BFA2B82A32F000000D6 /* GoodLuckView.swift */; };
+		126E0BFD2B83C78C000000D6 /* PlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0BFC2B83C78C000000D6 /* PlayView.swift */; };
+		126E0BFF2B83C95E000000D6 /* CoinIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0BFE2B83C95E000000D6 /* CoinIcon.swift */; };
+		126E0C012B83CB84000000D6 /* CrescentShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0C002B83CB84000000D6 /* CrescentShape.swift */; };
+		126E0C082B83D6DE000000D6 /* Interstellar.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 126E0C072B83D6DE000000D6 /* Interstellar.ttf */; };
+		126E0C122B8C2269000000D6 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0C112B8C2269000000D6 /* ShopView.swift */; };
+		126E0C142B8F601D000000D6 /* CoinSplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 126E0C132B8F601D000000D6 /* CoinSplashView.swift */; };
+		127B39342B7738A600CCCBF1 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127B39332B7738A600CCCBF1 /* Coin.swift */; };
+		127B39362B7738BC00CCCBF1 /* CoinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127B39352B7738BC00CCCBF1 /* CoinView.swift */; };
+		127B39382B7738E400CCCBF1 /* CoinRainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127B39372B7738E400CCCBF1 /* CoinRainView.swift */; };
+		127B393A2B773CD900CCCBF1 /* RotatingImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127B39392B773CD900CCCBF1 /* RotatingImageView.swift */; };
+		12ED32B22B6C665D0032B661 /* Game3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12ED32B12B6C665D0032B661 /* Game3View.swift */; };
+		12ED32B42B7142380032B661 /* ReelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12ED32B32B7142380032B661 /* ReelView.swift */; };
+		12FD61DF2B714AC200F0498D /* jackpot_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 12FD61DD2B714AC100F0498D /* jackpot_sound.mp3 */; };
+		12FD61E02B714AC200F0498D /* spin_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 12FD61DE2B714AC200F0498D /* spin_sound.mp3 */; };
+		12FD61E52B714CE400F0498D /* SoundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61E42B714CE400F0498D /* SoundManager.swift */; };
+		12FD61E72B71538500F0498D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61E62B71538500F0498D /* SettingsView.swift */; };
+		12FD61E92B71561100F0498D /* background_music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 12FD61E82B71561100F0498D /* background_music.mp3 */; };
+		12FD61EB2B71AB9600F0498D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61EA2B71AB9600F0498D /* HomeView.swift */; };
+		12FD61ED2B71F13300F0498D /* Game4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61EC2B71F13300F0498D /* Game4View.swift */; };
+		12FD61EF2B744F2300F0498D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61EE2B744F2300F0498D /* CardView.swift */; };
+		12FD61F12B744FBB00F0498D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61F02B744FBB00F0498D /* Extensions.swift */; };
+		12FD61F32B744FDC00F0498D /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61F22B744FDC00F0498D /* Colors.swift */; };
+		12FD61F52B745A3000F0498D /* SpinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61F42B745A3000F0498D /* SpinView.swift */; };
+		12FD61F72B745C5300F0498D /* OutlinedTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61F62B745C5300F0498D /* OutlinedTextView.swift */; };
+		12FD61FB2B74650100F0498D /* Reel2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12FD61FA2B74650100F0498D /* Reel2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +56,44 @@
 		120309A42B6584F8001AA4A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		120309A62B6584FC001AA4A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		120309A92B6584FC001AA4A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		120309B02B65B445001AA4A4 /* Game1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game1View.swift; sourceTree = "<group>"; };
+		120309B22B65B4C8001AA4A4 /* BoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxView.swift; sourceTree = "<group>"; };
+		120309B42B65BAA9001AA4A4 /* Game2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game2View.swift; sourceTree = "<group>"; };
+		120309B62B65DD9F001AA4A4 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		120309B82B65E2BD001AA4A4 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		120309BA2B65E71E001AA4A4 /* BgAnimation1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BgAnimation1.swift; sourceTree = "<group>"; };
+		120309BC2B65E782001AA4A4 /* GiftBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiftBoxView.swift; sourceTree = "<group>"; };
+		126E0BEE2B7CF3CB000000D6 /* CombinedText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinedText.swift; sourceTree = "<group>"; };
+		126E0BF42B7D0630000000D6 /* coin_rain.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = coin_rain.mp4; sourceTree = "<group>"; };
+		126E0BF52B7D0630000000D6 /* coin_rain_2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = coin_rain_2.mp4; sourceTree = "<group>"; };
+		126E0BF82B82A22A000000D6 /* CenteredShheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenteredShheetView.swift; sourceTree = "<group>"; };
+		126E0BFA2B82A32F000000D6 /* GoodLuckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodLuckView.swift; sourceTree = "<group>"; };
+		126E0BFC2B83C78C000000D6 /* PlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayView.swift; sourceTree = "<group>"; };
+		126E0BFE2B83C95E000000D6 /* CoinIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinIcon.swift; sourceTree = "<group>"; };
+		126E0C002B83CB84000000D6 /* CrescentShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrescentShape.swift; sourceTree = "<group>"; };
+		126E0C052B83D439000000D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		126E0C072B83D6DE000000D6 /* Interstellar.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Interstellar.ttf; sourceTree = "<group>"; };
+		126E0C112B8C2269000000D6 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
+		126E0C132B8F601D000000D6 /* CoinSplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinSplashView.swift; sourceTree = "<group>"; };
+		127B39332B7738A600CCCBF1 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
+		127B39352B7738BC00CCCBF1 /* CoinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinView.swift; sourceTree = "<group>"; };
+		127B39372B7738E400CCCBF1 /* CoinRainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinRainView.swift; sourceTree = "<group>"; };
+		127B39392B773CD900CCCBF1 /* RotatingImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingImageView.swift; sourceTree = "<group>"; };
+		12ED32B12B6C665D0032B661 /* Game3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game3View.swift; sourceTree = "<group>"; };
+		12ED32B32B7142380032B661 /* ReelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelView.swift; sourceTree = "<group>"; };
+		12FD61DD2B714AC100F0498D /* jackpot_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jackpot_sound.mp3; sourceTree = "<group>"; };
+		12FD61DE2B714AC200F0498D /* spin_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = spin_sound.mp3; sourceTree = "<group>"; };
+		12FD61E42B714CE400F0498D /* SoundManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundManager.swift; sourceTree = "<group>"; };
+		12FD61E62B71538500F0498D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		12FD61E82B71561100F0498D /* background_music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background_music.mp3; sourceTree = "<group>"; };
+		12FD61EA2B71AB9600F0498D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		12FD61EC2B71F13300F0498D /* Game4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game4View.swift; sourceTree = "<group>"; };
+		12FD61EE2B744F2300F0498D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		12FD61F02B744FBB00F0498D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		12FD61F22B744FDC00F0498D /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		12FD61F42B745A3000F0498D /* SpinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinView.swift; sourceTree = "<group>"; };
+		12FD61F62B745C5300F0498D /* OutlinedTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutlinedTextView.swift; sourceTree = "<group>"; };
+		12FD61FA2B74650100F0498D /* Reel2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reel2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +126,17 @@
 		120309A12B6584F8001AA4A4 /* Slot777 */ = {
 			isa = PBXGroup;
 			children = (
+				126E0C052B83D439000000D6 /* Info.plist */,
 				120309A22B6584F8001AA4A4 /* Slot777App.swift */,
 				120309A42B6584F8001AA4A4 /* ContentView.swift */,
+				126E0C022B83D3DE000000D6 /* Font */,
+				126E0BF32B7D0612000000D6 /* Video */,
+				126E0BED2B7CF3B9000000D6 /* CustomView */,
+				127B39322B77389400CCCBF1 /* Coin */,
+				12FD61DC2B714A9F00F0498D /* Sound */,
+				12FD61E32B714CD000F0498D /* Util */,
+				12FD61E22B714C3900F0498D /* Viewmodel */,
+				12FD61E12B714C0F00F0498D /* View */,
 				120309A62B6584FC001AA4A4 /* Assets.xcassets */,
 				120309A82B6584FC001AA4A4 /* Preview Content */,
 			);
@@ -65,6 +149,99 @@
 				120309A92B6584FC001AA4A4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		126E0BED2B7CF3B9000000D6 /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+				126E0BEE2B7CF3CB000000D6 /* CombinedText.swift */,
+				126E0BF82B82A22A000000D6 /* CenteredShheetView.swift */,
+				126E0BFA2B82A32F000000D6 /* GoodLuckView.swift */,
+				126E0BFC2B83C78C000000D6 /* PlayView.swift */,
+				126E0BFE2B83C95E000000D6 /* CoinIcon.swift */,
+				126E0C002B83CB84000000D6 /* CrescentShape.swift */,
+				126E0C132B8F601D000000D6 /* CoinSplashView.swift */,
+			);
+			path = CustomView;
+			sourceTree = "<group>";
+		};
+		126E0BF32B7D0612000000D6 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				126E0BF52B7D0630000000D6 /* coin_rain_2.mp4 */,
+				126E0BF42B7D0630000000D6 /* coin_rain.mp4 */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
+		126E0C022B83D3DE000000D6 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				126E0C072B83D6DE000000D6 /* Interstellar.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		127B39322B77389400CCCBF1 /* Coin */ = {
+			isa = PBXGroup;
+			children = (
+				127B39332B7738A600CCCBF1 /* Coin.swift */,
+				127B39352B7738BC00CCCBF1 /* CoinView.swift */,
+				127B39372B7738E400CCCBF1 /* CoinRainView.swift */,
+			);
+			path = Coin;
+			sourceTree = "<group>";
+		};
+		12FD61DC2B714A9F00F0498D /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				12FD61E82B71561100F0498D /* background_music.mp3 */,
+				12FD61DD2B714AC100F0498D /* jackpot_sound.mp3 */,
+				12FD61DE2B714AC200F0498D /* spin_sound.mp3 */,
+			);
+			path = Sound;
+			sourceTree = "<group>";
+		};
+		12FD61E12B714C0F00F0498D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				120309B62B65DD9F001AA4A4 /* InfoView.swift */,
+				12FD61E62B71538500F0498D /* SettingsView.swift */,
+				120309B02B65B445001AA4A4 /* Game1View.swift */,
+				120309B42B65BAA9001AA4A4 /* Game2View.swift */,
+				12ED32B12B6C665D0032B661 /* Game3View.swift */,
+				12FD61EC2B71F13300F0498D /* Game4View.swift */,
+				12FD61EA2B71AB9600F0498D /* HomeView.swift */,
+				126E0C112B8C2269000000D6 /* ShopView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		12FD61E22B714C3900F0498D /* Viewmodel */ = {
+			isa = PBXGroup;
+			children = (
+				120309BC2B65E782001AA4A4 /* GiftBoxView.swift */,
+				120309B22B65B4C8001AA4A4 /* BoxView.swift */,
+				12ED32B32B7142380032B661 /* ReelView.swift */,
+				12FD61FA2B74650100F0498D /* Reel2View.swift */,
+				12FD61EE2B744F2300F0498D /* CardView.swift */,
+				12FD61F42B745A3000F0498D /* SpinView.swift */,
+				12FD61F62B745C5300F0498D /* OutlinedTextView.swift */,
+				127B39392B773CD900CCCBF1 /* RotatingImageView.swift */,
+			);
+			path = Viewmodel;
+			sourceTree = "<group>";
+		};
+		12FD61E32B714CD000F0498D /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				120309BA2B65E71E001AA4A4 /* BgAnimation1.swift */,
+				120309B82B65E2BD001AA4A4 /* Constants.swift */,
+				12FD61E42B714CE400F0498D /* SoundManager.swift */,
+				12FD61F02B744FBB00F0498D /* Extensions.swift */,
+				12FD61F22B744FDC00F0498D /* Colors.swift */,
+			);
+			path = Util;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +302,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12FD61E92B71561100F0498D /* background_music.mp3 in Resources */,
+				12FD61DF2B714AC200F0498D /* jackpot_sound.mp3 in Resources */,
 				120309AA2B6584FC001AA4A4 /* Preview Assets.xcassets in Resources */,
+				12FD61E02B714AC200F0498D /* spin_sound.mp3 in Resources */,
+				126E0BF62B7D0630000000D6 /* coin_rain.mp4 in Resources */,
+				126E0C082B83D6DE000000D6 /* Interstellar.ttf in Resources */,
+				126E0BF72B7D0630000000D6 /* coin_rain_2.mp4 in Resources */,
 				120309A72B6584FC001AA4A4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +320,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				120309BD2B65E782001AA4A4 /* GiftBoxView.swift in Sources */,
+				126E0BEF2B7CF3CB000000D6 /* CombinedText.swift in Sources */,
+				12FD61FB2B74650100F0498D /* Reel2View.swift in Sources */,
+				12FD61F72B745C5300F0498D /* OutlinedTextView.swift in Sources */,
+				127B39382B7738E400CCCBF1 /* CoinRainView.swift in Sources */,
+				127B393A2B773CD900CCCBF1 /* RotatingImageView.swift in Sources */,
+				126E0C142B8F601D000000D6 /* CoinSplashView.swift in Sources */,
+				12FD61F32B744FDC00F0498D /* Colors.swift in Sources */,
+				12FD61EB2B71AB9600F0498D /* HomeView.swift in Sources */,
+				12ED32B42B7142380032B661 /* ReelView.swift in Sources */,
+				12FD61ED2B71F13300F0498D /* Game4View.swift in Sources */,
+				120309B32B65B4C8001AA4A4 /* BoxView.swift in Sources */,
+				12ED32B22B6C665D0032B661 /* Game3View.swift in Sources */,
+				127B39362B7738BC00CCCBF1 /* CoinView.swift in Sources */,
+				12FD61F52B745A3000F0498D /* SpinView.swift in Sources */,
+				126E0BF92B82A22A000000D6 /* CenteredShheetView.swift in Sources */,
+				126E0C012B83CB84000000D6 /* CrescentShape.swift in Sources */,
+				126E0BFD2B83C78C000000D6 /* PlayView.swift in Sources */,
+				126E0BFB2B82A32F000000D6 /* GoodLuckView.swift in Sources */,
+				120309B52B65BAA9001AA4A4 /* Game2View.swift in Sources */,
+				12FD61E52B714CE400F0498D /* SoundManager.swift in Sources */,
 				120309A52B6584F8001AA4A4 /* ContentView.swift in Sources */,
+				120309B12B65B445001AA4A4 /* Game1View.swift in Sources */,
+				120309B92B65E2BD001AA4A4 /* Constants.swift in Sources */,
+				120309B72B65DD9F001AA4A4 /* InfoView.swift in Sources */,
 				120309A32B6584F8001AA4A4 /* Slot777App.swift in Sources */,
+				120309BB2B65E71E001AA4A4 /* BgAnimation1.swift in Sources */,
+				126E0BFF2B83C95E000000D6 /* CoinIcon.swift in Sources */,
+				12FD61F12B744FBB00F0498D /* Extensions.swift in Sources */,
+				12FD61EF2B744F2300F0498D /* CardView.swift in Sources */,
+				127B39342B7738A600CCCBF1 /* Coin.swift in Sources */,
+				126E0C122B8C2269000000D6 /* ShopView.swift in Sources */,
+				12FD61E72B71538500F0498D /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +489,8 @@
 				DEVELOPMENT_TEAM = H3VH25TQU4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Slot777/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Lucky Winner Slots";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -285,7 +501,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ss.Slot777;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ss.LuckyWinnerSlots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -304,6 +520,8 @@
 				DEVELOPMENT_TEAM = H3VH25TQU4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Slot777/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Lucky Winner Slots";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -314,7 +532,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ss.Slot777;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ss.LuckyWinnerSlots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
